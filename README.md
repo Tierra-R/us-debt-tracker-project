@@ -29,5 +29,5 @@ To expand on this project:
 - Build a dashboard in Power BI or Tableau
 - Convert into a Python notebook for automation
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](dashboard-screenshot.png.png)
 *Above: Summary dashboard of historical debt trends and projections*
