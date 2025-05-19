@@ -28,3 +28,6 @@ To expand on this project:
 - Analyze correlation between debt and economic factors (e.g., unemployment, interest rates)
 - Build a dashboard in Power BI or Tableau
 - Convert into a Python notebook for automation
+
+![Dashboard Screenshot](dashboard-screenshot.png)
+*Above: Summary dashboard of historical debt trends and projections*
